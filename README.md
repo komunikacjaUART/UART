@@ -11,6 +11,6 @@ ddddddddddddddddddddddddddddddddddddddddddddd
 - opracowanie reakcji na paczkę przychodzącą (F)(IST)
 - wysoka wydajność (NF)(IST)
 - interfejs komunikacyjny (NF)(INNE)
-
+dupa
 
 sdsdsddsd
