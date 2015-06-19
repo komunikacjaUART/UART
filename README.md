@@ -13,3 +13,4 @@ ddddddddddddddddddddddddddddddddddddddddddddd
 - interfejs komunikacyjny (NF)(INNE)
 
 
+sdsdsddsd
